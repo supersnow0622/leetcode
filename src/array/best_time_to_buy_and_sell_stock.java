@@ -9,16 +9,7 @@ You may not engage in multiple transactions at the same time (ie, you must sell 
  * @author:王丽雪
  * @time:2017年6月13日下午5:25:43
  */
-/**
- * @Description:
- * @author:鐜嬩附闆?-Dosgi.requiredJavaVersion=1.6
- * @time:2017年6月14日上午9:01:04
- */
-/**
- * @Description:
- * @author:鐜嬩附闆?-Dosgi.requiredJavaVersion=1.6
- * @time:2017年6月14日上午9:01:07
- */
+
 public class best_time_to_buy_and_sell_stock {
 	/*Say you have an array for which the i th element is the price of a given stock on day i.
 	 *Design an algorithm to find the maximum profit. You may complete at most two transactions.
